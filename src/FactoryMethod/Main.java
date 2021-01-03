@@ -1,6 +1,8 @@
-import framework.Factory;
-import framework.Product;
-import idcard.IDCardFactory;
+package FactoryMethod;
+
+import FactoryMethod.framework.Factory;
+import FactoryMethod.framework.Product;
+import FactoryMethod.idcard.IDCardFactory;
 
 public class Main{
   public static void main(String[] args) {
